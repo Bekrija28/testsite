@@ -1,0 +1,786 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nucleare\n"
+"POT-Creation-Date: 2023-04-20 11:49+0200\n"
+"PO-Revision-Date: 2023-04-20 11:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:42
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Reply"
+msgstr ""
+
+#: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:80
+msgid "Name *"
+msgstr ""
+
+#: comments.php:81
+msgid "Email *"
+msgstr ""
+
+#: comments.php:82
+msgid "Website"
+msgstr ""
+
+#: comments.php:84
+msgid " Required fields are marked "
+msgstr ""
+
+#. translators: %s: wordpress login url
+#: comments.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. translators: 1: profile user link, 2: username, 3: logout link
+#: comments.php:91
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:92
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:93
+msgid "Leave a Reply"
+msgstr ""
+
+#. translators: %s: name of person to reply
+#: comments.php:95
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:96
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:97
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:98
+msgid "Comment *"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: create new post link
+#: content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:32 content-single.php:39 content.php:59
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:42 content.php:71 inc/template-tags.php:120
+msgid "Edit"
+msgstr ""
+
+#: content.php:9 inc/nucleare-dynamic.php:262
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: content.php:47
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. translators: 1: theme name, 2: theme developer
+#: footer.php:20
+#, php-format
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Small"
+msgstr ""
+
+#: functions.php:66
+msgid "S"
+msgstr ""
+
+#: functions.php:71
+msgid "Regular"
+msgstr ""
+
+#: functions.php:72
+msgid "M"
+msgstr ""
+
+#: functions.php:77
+msgid "Large"
+msgstr ""
+
+#: functions.php:78
+msgid "L"
+msgstr ""
+
+#: functions.php:83
+msgid "Larger"
+msgstr ""
+
+#: functions.php:84
+msgid "XL"
+msgstr ""
+
+#: functions.php:122
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:33
+msgid "Menu"
+msgstr ""
+
+#: header.php:58
+msgid "Facebook"
+msgstr ""
+
+#: header.php:61
+msgid "Twitter"
+msgstr ""
+
+#: header.php:64
+msgid "Google Plus"
+msgstr ""
+
+#: header.php:67
+msgid "Linkedin"
+msgstr ""
+
+#: header.php:70
+msgid "Instagram"
+msgstr ""
+
+#: header.php:73
+msgid "YouTube"
+msgstr ""
+
+#: header.php:76
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:79
+msgid "Twitch"
+msgstr ""
+
+#: header.php:82
+msgid "Tumblr"
+msgstr ""
+
+#: header.php:85
+msgid "VK"
+msgstr ""
+
+#: header.php:88
+msgid "Stumbleupon"
+msgstr ""
+
+#: header.php:91
+msgid "Snapchat"
+msgstr ""
+
+#: header.php:94
+msgid "Imdb"
+msgstr ""
+
+#: header.php:97
+msgid "Reddit"
+msgstr ""
+
+#: header.php:100
+msgid "Spotify"
+msgstr ""
+
+#: header.php:103
+msgid "WhatsApp"
+msgstr ""
+
+#: header.php:106
+msgid "RSS"
+msgstr ""
+
+#: header.php:109
+msgid "Search"
+msgstr ""
+
+#: header.php:120
+msgid "Close"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:37 inc/admin/nucleare-admin-page.php:119
+msgid "About"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:95
+msgid "Dismiss"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: inc/admin/nucleare-admin-page.php:99
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Nucleare! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:103
+msgid "Get started with Nucleare"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:126
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:128
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:130
+msgid "View PRO version Demo"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:132
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:147
+msgid "Free Vs PRO"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:150
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:184
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:185
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:186
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:190
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:191
+msgid "Please put it in our support forum."
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:192
+msgid "Support"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:196
+msgid "Need more features?"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:197 inc/admin/nucleare-admin-page.php:293
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:198
+msgid "Info about PRO version"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:204 inc/admin/nucleare-admin-page.php:212
+msgid "Translate"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:208
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:224
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:224
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:227
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:227
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:242
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:298
+msgid "Features"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/admin/nucleare-admin-page.php:299
+msgid "Nucleare"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:300
+msgid "Nucleare PRO"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:305
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:310
+msgid "Change Background"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:315
+msgid "Unlimited Text Color"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:320
+msgid "Choose Social Icons"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:325
+msgid "Powerful theme options"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:330 inc/nucleare-dynamic.php:370
+msgid "WooCommerce Style"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:335
+msgid "Choose Sidebar Position"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:340 inc/nucleare-dynamic.php:372
+msgid "Push sidebar"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:345 inc/nucleare-dynamic.php:373
+msgid "Loading Page"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:350
+msgid "Font switcher"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:355
+msgid "Beautiful Slider (posts, custom or instagram)"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:360 inc/nucleare-dynamic.php:377
+msgid "Post views counter"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:365 inc/nucleare-dynamic.php:379
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:370 inc/nucleare-dynamic.php:378
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:375
+msgid "6 Post format"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:380 inc/nucleare-dynamic.php:381
+msgid "7 Shortcodes"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:385
+msgid "11 Exclusive Widgets"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:390 inc/nucleare-dynamic.php:383
+msgid "Related Posts Box"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:395 inc/nucleare-dynamic.php:384
+msgid "Information About Author Box"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:403
+msgid "View PRO version demo"
+msgstr ""
+
+#: inc/admin/nucleare-admin-page.php:404
+msgid "More Information"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:40
+msgid "Text Color"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:46
+msgid "Second Text Color"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:52
+msgid "Box Background"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:58
+msgid "Special Color"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:88
+msgid "Nucleare Theme Options"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:101
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:106
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:111
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:116
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:121
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:126
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:131
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:136
+msgid "Twitch URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:141
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:146
+msgid "VK URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:151
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:156
+msgid "Snapchat URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:161
+msgid "Imdb URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:166
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:171
+msgid "Spotify URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:176
+msgid "WhatsApp URL"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:211
+msgid "Show RSS Button"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:229
+msgid "Show Search Button in Main Menu"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:247
+msgid "Post show"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:252
+msgid "Show full post"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:253
+msgid "Show excerpt"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:269
+msgid "Custom text for read more button"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:288
+msgid "Show categories and tags also in the blog page"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:306
+msgid "Host Google Fonts locally"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:324
+msgid "Scroll to top also on mobile"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:341
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:342
+msgid "Get the PRO version to remove CrestaProject credits"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:356
+msgid "Get Nucleare PRO WP Theme for only"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:361
+msgid "Watch the demo"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:364
+msgid "Get Nucleare PRO Theme"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:368
+msgid "Advanced Theme Options"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:369
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:371
+msgid "Choose sidebar position"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:374
+msgid "Font Switcher"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:375
+msgid "Unlimited Colors and Skin"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:376
+msgid "Beautiful Slider"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:380
+msgid "Post format"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:382
+msgid "10 Exclusive Widgets"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:385
+msgid "Advertising System"
+msgstr ""
+
+#: inc/nucleare-dynamic.php:386
+msgid "And much more..."
+msgstr ""
+
+#: inc/nucleare-dynamic.php:392
+msgid "More features? Upgrade to PRO"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:71
+msgid "Nucleare PRO Theme"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:72
+msgid "More Info"
+msgstr ""
+
+#: inc/template-tags.php:20 inc/template-tags.php:51
+msgid "Posts"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Next Post:"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: search query
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://crestaproject.com/downloads/nucleare/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Classic and Elegant WordPress Theme ideal for blogging, with two columns, "
+"unlimited colors and theme options by CrestaProject.com. Compatible with "
+"Gutenberg. Live demo https://crestaproject.com/demo/nucleare/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rizzo Andrea - CrestaProject.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://crestaproject.com"
+msgstr ""
